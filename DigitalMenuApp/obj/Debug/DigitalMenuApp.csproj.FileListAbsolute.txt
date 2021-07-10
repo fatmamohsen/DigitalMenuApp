@@ -1,0 +1,14 @@
+C:\Users\20121\Pictures\Digital Menu App\WindowsFormsApplication4\DigitalMenuApp\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\20121\Pictures\Digital Menu App\WindowsFormsApplication4\DigitalMenuApp\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\20121\Pictures\Digital Menu App\WindowsFormsApplication4\DigitalMenuApp\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\20121\Pictures\Digital Menu App\WindowsFormsApplication4\DigitalMenuApp\obj\Debug\DigitalMenuApp.csprojAssemblyReference.cache
+C:\Users\20121\Pictures\Digital Menu App\WindowsFormsApplication4\DigitalMenuApp\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\20121\Pictures\Digital Menu App\WindowsFormsApplication4\DigitalMenuApp\obj\Debug\WindowsFormsApplication4.inputform.resources
+C:\Users\20121\Pictures\Digital Menu App\WindowsFormsApplication4\DigitalMenuApp\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\20121\Pictures\Digital Menu App\WindowsFormsApplication4\DigitalMenuApp\obj\Debug\WindowsFormsApplication4.UserControl1.resources
+C:\Users\20121\Pictures\Digital Menu App\WindowsFormsApplication4\DigitalMenuApp\obj\Debug\WindowsFormsApplication4.UserControl2.resources
+C:\Users\20121\Pictures\Digital Menu App\WindowsFormsApplication4\DigitalMenuApp\obj\Debug\WindowsFormsApplication4.UserControl3.resources
+C:\Users\20121\Pictures\Digital Menu App\WindowsFormsApplication4\DigitalMenuApp\obj\Debug\DigitalMenuApp.csproj.GenerateResource.cache
+C:\Users\20121\Pictures\Digital Menu App\WindowsFormsApplication4\DigitalMenuApp\obj\Debug\DigitalMenuApp.csproj.CoreCompileInputs.cache
+C:\Users\20121\Pictures\Digital Menu App\WindowsFormsApplication4\DigitalMenuApp\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\20121\Pictures\Digital Menu App\WindowsFormsApplication4\DigitalMenuApp\obj\Debug\WindowsFormsApplication4.pdb
