@@ -1,2 +1,2 @@
 # DigitalMenuApp
-an interactive and butter-looking restaurant menu.
+an interactive and user friendly restaurant menu.
